@@ -1,8 +1,8 @@
-# Novelty Search Gym
+# STAX
 
-A (fairly modular and easily expandable) novelty search implementation for gym-based environments
+This is the code for the ECJ journal paper Discovering and Exploiting Sparse Rewards in a Learned Behavior Space.
 
-This repo comes with a very simple example environment in the `environments/assets` folder.
+It is based on my Novelty Search Gym library (https://github.com/GPaolo/novelty_search_gym).
 
 ---
 To install run:
