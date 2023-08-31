@@ -1,0 +1,15 @@
+.venv
+nohup.out
+Pipfile
+.idea
+**/.ipynb_checkpoints
+**/__pycache__
+__pycache__
+**/__pycache__/**
+experiment_data
+environments/assets/
+/venv
+*.pyc
+*.pkl
+**MUJOCO_LOG.TXT
+cmaes_analysis/data/**
